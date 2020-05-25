@@ -1,0 +1,23 @@
+DASHBOARD:
+https://www.w3schools.com/howto/howto_css_vertical_menu.asp
+
+SISTEMA:
+https://www.cambiatealinux.com/lscpu-muestra-informacion-del-procesador-y-cpu
+https://www.tutorialspoint.com/unix_commands/free.htm
+https://www.mikroways.net/2010/11/25/el-archivo-etcfstab/
+https://codeday.me/es/qa/20181206/14394.html
+
+HARDWARE:
+https://francisconi.org/linux/comandos/lshw
+https://francisconi.org/linux/comandos/lsusb
+
+XARXES:
+http://lamiradadelreplicante.com/2016/03/16/monitorizar-el-trafico-de-red-en-linux-con-vnstat/
+- INTALAR vnstat con esta guia para que funcione
+https://aspratyush.wordpress.com/tag/vnstat-not-enough-data-available-yet/
+https://docs.bluehosting.cl/tutoriales/servidores/como-mostrar-y-eliminar-reglas-de-firewall-en-iptables.html
+
+ADMIN:
+https://www.ochobitshacenunbyte.com/2015/08/31/historial-comandos-gnu-linux-history/
+
+
